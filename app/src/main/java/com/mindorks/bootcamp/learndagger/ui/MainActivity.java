@@ -5,7 +5,7 @@ import android.widget.TextView;
 
 import com.mindorks.bootcamp.learndagger.MyApplication;
 import com.mindorks.bootcamp.learndagger.R;
-import com.mindorks.bootcamp.learndagger.di.component.DaggerActivityComponent;
+
 import com.mindorks.bootcamp.learndagger.di.module.ActivityModule;
 
 import javax.inject.Inject;
